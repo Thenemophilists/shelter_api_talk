@@ -1,4 +1,8 @@
-# **Shelter Api**<sub>By @Evereen2023</sub>
+# **Shelter Api**
 
->The first preview version
+[!NOTE]
+Run on Go 1.22.5
+
+## **Introduction**
+This api uses Golang and Gin framework to create a RESTfyl API that can return a sentence from the hitokoto database. 
 
