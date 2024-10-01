@@ -1,0 +1,12 @@
+{
+    "debug":false,
+    "port":8080,
+    "faviconPath":"./favicon.jpeg",
+    "database":{
+        "hitokotoDB":{
+            "uri":"",
+            "dbName":"",
+            "dbCollection":""
+        }
+    }
+}
