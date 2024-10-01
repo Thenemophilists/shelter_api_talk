@@ -131,7 +131,7 @@ func GetText(c *gin.Context) {
 
 	result.Config.UsingDB.Name = "hitokotoDB"
 	result.Config.UsingDB.Version = "0.0.1.000001"
-	result.Config.API.Version = "0.0.1.000001"
+	result.Config.Api.Version = "0.0.1.000001"
 	if debug {
 		fmt.Println(result)
 	}
