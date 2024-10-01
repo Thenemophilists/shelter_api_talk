@@ -38,7 +38,7 @@ go run main.go
 4. Open your browser and go to `http://localhost:8080/sentence` to see the sentences.
 
 ### **The Database**
-Download the monogoDB version of hitokoto in [github link]('https://github.com/Evereen2023/hikotoko_db')
+Download the monogoDB version of hitokoto in [github link](https://github.com/Evereen2023/hikotoko_db)
 
 ## **License**
 
