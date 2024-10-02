@@ -1,6 +1,8 @@
 # **Shelter Api**
 
->By @Evereen2023
+![GitHub License](https://img.shields.io/github/license/Thenemophilists/shelter_api)
+![GitHub forks](https://img.shields.io/github/forks/Thenemophilists/shelter_api)
+![GitHub last commit](https://img.shields.io/github/last-commit/Thenemophilists/shelter_api)
 
 ## **Introduction**
 
