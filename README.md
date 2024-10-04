@@ -10,6 +10,7 @@ This api uses Golang and Gin framework to create a RESTful API that can return a
 
 ## **Getting Started**
 
+
 Visit the [GitHub repository](https://github.com/Evereen2023/shelter_api) to download the source code and follow the instructions below to run the API.
 
 ### **Prerequisites**
