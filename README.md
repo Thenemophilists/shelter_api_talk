@@ -2,9 +2,9 @@
 
 <a href="https://Shelter.Nemophilists.com/"><img src="https://img.shields.io/badge/-Shelter|Nemophilists-445d28?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:studio@nemophilists.com"><img src="https://img.shields.io/badge/-Studio@nemophilists.com-445d28?style=flat-square&logo=Gmail&logoColor=white"/></a>\
-![GitHub Repo stars](https://img.shields.io/github/stars/Thenemophilists/shelter_talk_api?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Thenemophilists/shelter_talk_api?style=flat-square)
-![GitHub License](https://img.shields.io/github/license/Thenemophilists/shelter_talk_api?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/Thenemophilists/shelter_api_talk?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Thenemophilists/shelter_api_talk?style=flat-square)
+![GitHub License](https://img.shields.io/github/license/Thenemophilists/shelter_api_talk?style=flat-square)
 
 
 ## **Introduction**
@@ -13,7 +13,7 @@ This api uses Golang and Gin framework to create a RESTful API that can return a
 
 ## **Getting Started**
 
-Visit the [GitHub repository](https://github.com/Evereen2023/shelter_talk_api) to download the source code and follow the instructions below to run the API.
+Visit the [GitHub repository](https://github.com/Evereen2023/shelter_api_talk) to download the source code and follow the instructions below to run the API.
 
 ### **Prerequisites**
 
@@ -25,7 +25,7 @@ Visit the [GitHub repository](https://github.com/Evereen2023/shelter_talk_api) t
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/Evereen2023/shelter_talk_api.git
+git clone https://github.com/Evereen2023/shelter_api_talk.git
 ```
 
 2. Install the required packages:
@@ -40,7 +40,7 @@ go mod download
 go run main.go
 ```
 
-4. Open your browser and go to `http://localhost:8080/sentence` to see the sentences.
+4. Open your browser and go to `http://localhost:<port>/sentence` to see the sentences.
 
 ### **The Database**
 Download the monogoDB version of hitokoto in https://github.com/Evereen2023/hikotoko_db.git
