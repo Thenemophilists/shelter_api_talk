@@ -1,8 +1,11 @@
 # **Shelter Api**
 
+<a href="https://Shelter.Nemophilists.com/"><img src="https://img.shields.io/badge/-Shelter|Nemophilists-445d28?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:studio@nemophilists.com"><img src="https://img.shields.io/badge/-Studio@nemophilists.com-445d28?style=flat-square&logo=Gmail&logoColor=white"/></a>\
 ![GitHub Repo stars](https://img.shields.io/github/stars/Thenemophilists/shelter_api?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Thenemophilists/shelter_api?style=flat-square)
 ![GitHub License](https://img.shields.io/github/license/Thenemophilists/shelter_api?style=flat-square)
+
 
 ## **Introduction**
 
