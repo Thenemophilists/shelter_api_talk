@@ -1,4 +1,4 @@
-# **Shelter Api**
+# **Talk | Shelter Api**
 
 <a href="https://Shelter.Nemophilists.com/"><img src="https://img.shields.io/badge/-Shelter|Nemophilists-445d28?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:studio@nemophilists.com"><img src="https://img.shields.io/badge/-Studio@nemophilists.com-445d28?style=flat-square&logo=Gmail&logoColor=white"/></a>\
@@ -13,7 +13,7 @@ This api uses Golang and Gin framework to create a RESTful API that can return a
 
 ## **Getting Started**
 
-Visit the [GitHub repository](https://github.com/Evereen2023/shelter_api) to download the source code and follow the instructions below to run the API.
+Visit the [GitHub repository](https://github.com/Evereen2023/shelter_talk_api) to download the source code and follow the instructions below to run the API.
 
 ### **Prerequisites**
 
@@ -25,7 +25,7 @@ Visit the [GitHub repository](https://github.com/Evereen2023/shelter_api) to dow
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/Evereen2023/shelter_api.git
+git clone https://github.com/Evereen2023/shelter_talk_api.git
 ```
 
 2. Install the required packages:
