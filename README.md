@@ -13,7 +13,7 @@ This api uses Golang and Gin framework to create a RESTful API that can return a
 
 ## **Getting Started**
 
-Visit the [GitHub repository](https://github.com/Evereen2023/shelter_api_talk) to download the source code and follow the instructions below to run the API.
+Visit the [GitHub repository](https://github.com/Thenemophilists/shelter_api_talk) to download the source code and follow the instructions below to run the API.
 
 ### **Prerequisites**
 
